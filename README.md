@@ -1,51 +1,54 @@
-# 👋 Hi, I'm Abilash Nimmala
+<h1 align="center">Hi 👋, I'm Abilash Nimmala</h1>
+<h3 align="center">🚀 Senior DevOps & Site Reliability Engineer | AWS | Terraform | Kubernetes | 6+ Years</h3>
 
-### 🚀 Senior DevOps & Site Reliability Engineer | 6+ Years Experience
-
-💡 I build scalable, automated, and reliable cloud infrastructure using DevOps and SRE best practices.
+<p align="center">
+  <a href="https://www.linkedin.com/in/abilash-nimmala-4a08b9202">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://www.abilashnimmala.in/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge" />
+  </a>
+  <a href="mailto:abhilash.nimmala1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on AWS cloud infrastructure, CI/CD automation, and GitOps workflows  
-- ☁️ Strong experience in AWS, GCP, Terraform, Kubernetes, and cloud-native architectures  
-- ⚙️ Specialized in building automated CI/CD pipelines using GitHub Actions and Jenkins  
-- 📈 Experienced in system reliability, monitoring, and incident management  
-- 💰 Focused on cost optimization and performance improvement in cloud environments  
-- 🌐 Portfolio: https://www.abilashnimmala.in  
+🚀 DevOps & SRE Engineer with 6+ years of experience in building scalable, secure, and automated cloud infrastructure.
+
+- ☁️ Expertise in AWS, GCP, Terraform, and Kubernetes  
+- ⚙️ Strong in CI/CD automation using GitHub Actions & Jenkins  
+- 📊 Focused on monitoring, reliability, and system performance  
+- 💰 Passionate about cost optimization and infrastructure efficiency  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-- ☁️ Cloud: AWS, GCP  
-- ⚙️ IaC: Terraform, Ansible  
-- 🚀 CI/CD: GitHub Actions, Jenkins  
-- 📦 Containers: Docker, Kubernetes  
-- 📊 Monitoring: Prometheus, Grafana, ELK, CloudWatch  
-- 🖥️ OS: Linux  
-- 🔐 Security: IAM, Networking, VPC  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,kubernetes,docker,jenkins,github,linux,bash" />
+</p>
 
 ---
 
 ## 🏗️ Featured Projects
 
 ### 🚀 AWS Serverless Document Processing Pipeline
-- Designed an event-driven serverless system using AWS Lambda, S3, API Gateway, and Terraform  
-- Implemented asynchronous processing for scalability and performance  
-- Secured file uploads using pre-signed URLs  
-- Built production-ready architecture with monitoring and logging  
+✔ Event-driven architecture using Lambda, S3, API Gateway  
+✔ Asynchronous processing with scalable design  
+✔ Secure uploads using pre-signed URLs  
 
 🔗 https://github.com/abilashnimmala/aws-serverless-doc-converter  
 
 ---
 
-### ☁️ Production-Grade GitOps DevOps Platform (GCP)
-- Built end-to-end GitOps platform using Terraform, Kubernetes (GKE), and ArgoCD  
-- Automated infrastructure provisioning and application deployments  
-- Used Helm for standardized deployments  
-- Enabled self-healing and scalable Kubernetes workloads  
+### ☁️ GitOps DevOps Platform (GCP)
+✔ Terraform + GKE + ArgoCD based GitOps system  
+✔ Automated deployments with Helm  
+✔ Self-healing and scalable workloads  
 
 🔗 https://github.com/abilashnimmala/gke-terraform-cicd-pipeline  
 
@@ -53,14 +56,23 @@
 
 ## 📊 Key Achievements
 
-- 🔄 Migrated 30+ applications and 250+ CI/CD pipelines from Jenkins to GitHub Actions  
-- 🖥️ Migrated 70+ Windows servers to Linux, reducing licensing cost and improving performance  
-- ⚡ Improved deployment efficiency and reduced manual effort through automation  
-- 📉 Optimized cloud costs and improved system reliability  
+🚀 Migrated **30+ applications & 250+ CI/CD pipelines**  
+💰 Migrated **70+ servers → reduced licensing cost**  
+⚡ Improved deployment efficiency & reduced manual effort  
+📈 Ensured **99.9% uptime** with high availability systems  
 
 ---
 
-## 📫 Connect with Me
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abilashnimmala&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abilashnimmala&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/abilash-nimmala-4a08b9202  
 - 🌐 Portfolio: https://www.abilashnimmala.in  
@@ -68,4 +80,4 @@
 
 ---
 
-⭐ If you like my work, feel free to explore my repositories and connect!
+⭐ *If you like my work, feel free to explore and connect!*
